@@ -36,4 +36,5 @@ Python Developer | Django Web Developer | AI/ML Enthusiast
 
 ## 📬 Contact Me
 - Email: iamhritik2003@example.com  
-- LinkedIn: [Hritik](https://www.linkedin.com/in/hritik-sharma-0a629525a/)  
+- LinkedIn: [Hritik](https://www.linkedin.com/in/hritik-sharma-0a629525a/)
+- Leetcode: [Profile Link](https://leetcode.com/u/6g1hDmkoCk/)
