@@ -17,12 +17,12 @@ Python Developer | Django Web Developer | AI/ML Enthusiast
 ### **Billing Management System**
 - Django-based system for managing bills, items, employees
 - PDF report generation, admin & employee dashboards
- [GitHub Repo](https://github.com/Hritik0052/BP)
+ [Link](https://github.com/Hritik0052/BP)
 
 ### **Ticket Raising System**
 - Django app for raising and tracking tickets
 - Auto-escalation feature for unresolved tickets
- [GitHub Repo](https://github.com/Hritik0052/Ticket-Raising-System)
+ [Link](https://github.com/Hritik0052/Ticket-Raising-System)
 
 ### **Other Projects**
 - [Check out other projects in repository section]
