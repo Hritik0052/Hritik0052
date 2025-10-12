@@ -25,7 +25,7 @@ Python Developer | Django Web Developer | AI/ML Enthusiast
  [Link](https://github.com/Hritik0052/Ticket-Raising-System)
 
 ### **Other Projects**
-- [Check out other projects in repository section]
+- => Check out other projects in repository section
 
 ---
 
