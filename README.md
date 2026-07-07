@@ -5,7 +5,7 @@ Python Developer | Django Web Developer | AI/ML Enthusiast
 
 ## 💻 Skills
 - **Languages:** Python, JavaScript, HTML, CSS  
-- **Backend:** Django, Django REST Framework  
+- **Backend:** Django, Django REST Framework, Node, Express, FastAPI
 - **Frontend:** Bootstrap, Tailwind CSS, JavaScript  
 - **Database:** SQLite, PostgreSQL  
 - **Tools & Version Control:** Git, GitHub, VS Code  
