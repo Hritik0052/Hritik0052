@@ -79,23 +79,37 @@ Building scalable backends and applying Generative AI — with hands-on focus on
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub
+
+<p align="left">
+  <img src="https://github.com/Hritik0052.png" width="110" height="110" alt="Hritik's GitHub avatar" style="border-radius:50%;" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Hritik0052&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Hritik0052?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Hritik0052&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+**Featured Repositories**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hritik0052&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hritik's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik0052&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Hritik0052/devlearn-ai">
+    <img src="https://img.shields.io/github/stars/Hritik0052/devlearn-ai?style=for-the-badge&logo=github&label=DevLearn%20AI&color=092E20" alt="DevLearn AI stars" />
+  </a>
+  <a href="https://github.com/Hritik0052/SentiTrackAI">
+    <img src="https://img.shields.io/github/stars/Hritik0052/SentiTrackAI?style=for-the-badge&logo=github&label=SentiTrackAI&color=412991" alt="SentiTrackAI stars" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Hritik0052/BP">
+    <img src="https://img.shields.io/github/last-commit/Hritik0052/BP?style=for-the-badge&logo=git&label=Billing%20System" alt="Billing System last commit" />
+  </a>
+  <a href="https://github.com/Hritik0052/Ticket-Raising-System">
+    <img src="https://img.shields.io/github/last-commit/Hritik0052/Ticket-Raising-System?style=for-the-badge&logo=git&label=Ticket%20System" alt="Ticket System last commit" />
+  </a>
 </p>
 
-> 💡 The streak, follower, and profile-view badges above load from reliable services. The two cards render on **GitHub.com** (they may show as broken in VSCode's preview or if the stats service is briefly rate-limited).
+<sub>👉 These badges pull live data straight from GitHub's API via shields.io — the same reliable service as the tech badges above, so they render everywhere.</sub>
 
 ---
 
