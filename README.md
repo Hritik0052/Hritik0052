@@ -80,9 +80,22 @@ Building scalable backends and applying Generative AI — with hands-on focus on
 ---
 
 ## 📈 GitHub Stats
-![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritik0052&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik0052&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Hritik0052&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Hritik0052?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Hritik0052&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hritik0052&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hritik's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik0052&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+> 💡 The streak, follower, and profile-view badges above load from reliable services. The two cards render on **GitHub.com** (they may show as broken in VSCode's preview or if the stats service is briefly rate-limited).
 
 ---
 
