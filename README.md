@@ -75,7 +75,7 @@ Building scalable backends and applying Generative AI — with hands-on focus on
 - [View Repo](https://github.com/Hritik0052/Ticket-Raising-System)
 
 ### **Other Projects**
-- Explore more in my [repositories](https://github.com/Hritik0052?tab=repositories)
+- Explore more projects in my [repositories](https://github.com/Hritik0052?tab=repositories)
 
 ---
 
