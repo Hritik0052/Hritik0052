@@ -54,12 +54,6 @@ Building scalable backends and applying Generative AI — with hands-on focus on
 
 ## 📂 Projects
 
-### **DevLearn AI**
-- AI-powered backend for a personalized learning platform for IT skills
-- Roadmap generation, practice system, and an AI mentor
-- Built with Django & Django REST Framework
-- [View Repo](https://github.com/Hritik0052/devlearn-ai)
-
 ### **SentiTrackAI**
 - AI-driven sentiment tracking and analysis
 - [View Repo](https://github.com/Hritik0052/SentiTrackAI)
